@@ -1,0 +1,52 @@
+.header{
+
+    text-align: center;
+    background-color :rgba(231, 26, 163, 0.479);
+    font-size: 20px;
+    color: white;
+    background-size: cover;
+    border: 1px;
+    position: relative;
+    justify-content: center;
+    display: flex;
+    
+    
+    }
+    body{
+     overflow-x: hidden ;
+    }
+    .navigationimage{
+    max-width: fit-content;
+    width: 80px;
+    height: 800px;
+    display: flex;
+    
+    
+    } 
+    
+    
+    
+    .navigationbar{
+    display: flex;
+    color: white;
+    margin-top: -45%;
+    justify-content: space-between;
+    padding: 60px;
+    font-weight: bold;
+    background-blend-mode: darken;
+    padding: 100px;;
+    }
+    
+    
+    
+    .homepage{
+        font-size: 1.2em;
+        margin-bottom: 10px;
+        justify-content: center;
+        text-align: center;
+        font-size: xx-large;
+        color: white;
+        font-weight: 1000;
+        display: flex;
+    }
+    
